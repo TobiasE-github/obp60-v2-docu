@@ -364,7 +364,7 @@ msgstr "The transmission methods are described in more detail below."
 #: ../../usermanual/dataexchange.rst:83 fd5fcecac2d34359b6ed2b736bbfb476
 #, fuzzy
 msgid "NMEA2000 - Kabelgebunden"
-msgstr "NMEA2000 - Cable bundled"
+msgstr "NMEA2000 - Cable-bound"
 
 #: ../../usermanual/dataexchange.rst:85 38bffdfe3ae84b88ac47845674ded4e7
 #, fuzzy
@@ -677,7 +677,7 @@ msgstr "WiFi Client Password"
 #: ../../usermanual/dataexchange.rst:161 4c55e3e85b0d4de28af9abb690d1e667
 #, fuzzy
 msgid "NMEA0183 - Kabelgebunden"
-msgstr "NMEA0183 - Cable bundled"
+msgstr "NMEA0183 - Cable-bound"
 
 #: ../../usermanual/dataexchange.rst:163 340479fb8c2441d0be942e3a2ff587b7
 #, fuzzy
@@ -1751,10 +1751,10 @@ msgid ""
 "an den Abzweigdosen an. So entstehen im 1Wire-Bussystem nicht ungewollt "
 "lange Stichleitungen."
 msgstr ""
-"If you want to measure temperatures at different locations on your boat, "
-"create a backbone with junction boxes and connect the sensors to the "
-"junction boxes. This prevents unintentionally long branch lines in the "
-"1-Wire bus system."
+"If you want to measure temperatures at different points on the boat, create "
+"a backbone with junction boxes and connect the sensors to the junction "
+"boxes. This prevents unintentionally long branch lines in the 1-Wire bus "
+"system."
 
 #: ../../usermanual/dataexchange.rst:514 f7ceaa384d104a0494de71a805204984
 #, fuzzy
